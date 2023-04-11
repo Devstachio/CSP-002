@@ -1,0 +1,9 @@
+Directions:
+1. At least one box that moves right and left, bouncing off of each side of the screen.
+2. When the box reaches the edge and turns around, it should also move down.
+3. You will need a launcher at the bottom of the screen.
+4. The launcher will “launch” projectiles at the box.
+5. The launcher should move horizontally with the mouse.
+6. Projectiles should move straight up from the launcher when the mouse is pressed down.
+7. Hitting the box should at least have the box change color.
+8. *Optional: Score, based either off of number of launches, the amount of time the game takes, or some aspect of this data.
